@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+h1{
+    color: deeppink;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    font-size:  40px;
+    padding-top: 0px;
+}
+.paragraph{
+    font-size: 20px;
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfwidth img{
+    height: 500px;
+}
+.top-banner{
+    padding: 70px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 500px;
+}
+.mid-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height:600px;
+}
+.link{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.Bottom-banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 500px;
+}
+.latest-work{
+    text-align: center;
+}
+.first-pic{
+    height: 250px;
+    width: 350px;
+    margin-left: 70px;
+}
+.second-pic{
+    height: 250px;
+    width: 350px;
+    margin-left: 70px;
+}
+.third-pic{
+    height: 250px;
+    width: 350px;
+    margin-left: 60px;
+}
+section{
+    height: 350px;
+    padding-bottom: 0px;
+}
+h4{
+    font-size: 40px;
+}
+h5{
+    font-size: 20px;
+}
+.last-banner{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
+.text{
+    margin: 0px;
+    padding: 0px;
+    line-break: auto;
+}
+.bottom-link{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+.feedback{
+    background-image: linear-gradient(deeppink,lightpink);
+    border-radius: 5px;
+    width: 50%;
+    text-align: center;
+    margin: 70px 350px;
+    padding: 2px;
+}
+.box-text{
+    color: white;
+    font-size: 20px;
+    margin: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 2px;
+}
